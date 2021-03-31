@@ -1,0 +1,10 @@
+.places__text {
+  padding: 0;
+}
+
+@media (max-width: 520px) {
+  .places__text {
+    padding: 0 16px;
+  }
+}
+
