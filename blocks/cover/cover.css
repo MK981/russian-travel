@@ -1,8 +1,9 @@
 .cover {
   max-width: 1184px;
   margin: 92px auto 0;
+  position: relative;
 }
 
 .cover:hover .cover__overlay{
-  opacity: 0.8;
+  background-color: rgba(42, 44, 47, 0.8);
 }

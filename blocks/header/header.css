@@ -1,8 +1,10 @@
 .header {
-  margin-top: 28px;
+  max-width: 1280px;
+  margin: 28px auto 0;
   padding: 0 48px;
   display: flex;
   justify-content: space-between;
+  box-sizing: border-box;
 }
 
 @media (max-width: 768px) {
