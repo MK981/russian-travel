@@ -4,6 +4,7 @@
   padding: 0 48px 24px;
   display: flex;
   justify-content: space-between;
+  box-sizing: border-box;
 }
 
 @media (max-width: 768px) {
